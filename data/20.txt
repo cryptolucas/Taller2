@@ -1,0 +1,6 @@
+ID Pedido: 20
+Sofia
+Calle 215
+Valor total 33085
+IVA: 6286.15
+Valor Neto a pagar: 39371.15

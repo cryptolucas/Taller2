@@ -20,6 +20,34 @@ public class Ingrediente {
 	
 	
 	
+
+
+
+
+
+
+
+
+	@Override
+	public String toString() {
+		return "Ingrediente [nombre=" + nombre + ", CostoAdicional=" + CostoAdicional + "]";
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	public String getNombre() {
 		return nombre;
 	}

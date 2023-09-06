@@ -1,0 +1,6 @@
+ID Pedido: 67
+Juan Diego
+Carrera 20
+Valor total 29500
+IVA: 5605.0
+Valor Neto a pagar: 35105.0

@@ -1,0 +1,6 @@
+ID Pedido: 79
+yenny
+calle98
+Valor total 7500
+IVA: 1425.0
+Valor Neto a pagar: 8925.0

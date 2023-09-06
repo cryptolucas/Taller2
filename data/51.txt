@@ -1,0 +1,6 @@
+ID Pedido: 51
+Juliana
+Calle64
+Valor total 26350
+IVA: 5006.5
+Valor Neto a pagar: 31356.5

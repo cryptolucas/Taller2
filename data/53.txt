@@ -1,0 +1,6 @@
+ID Pedido: 53
+Sebastian
+calle16
+Valor total 26350
+IVA: 5006.5
+Valor Neto a pagar: 31356.5

@@ -13,6 +13,22 @@ public class ProductoMenu {
 			
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	
+
+	@Override
+	public String toString() {
+		return "ProductoMenu [nombre=" + nombre + ", PrecioBase=" + PrecioBase + "]";
+	}
+
+
+
 
 	public String getNombre() {
 		return nombre;

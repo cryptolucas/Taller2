@@ -1,0 +1,6 @@
+ID Pedido: 78
+carlos
+calle94
+Valor total 24850
+IVA: 4721.5
+Valor Neto a pagar: 29571.5
